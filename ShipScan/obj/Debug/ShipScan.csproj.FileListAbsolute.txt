@@ -1,0 +1,8 @@
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\obj\Debug\ShipScan.frmLogin.resources
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\obj\Debug\ShipScan.Properties.Resources.resources
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\obj\Debug\ShipScan.csproj.GenerateResource.Cache
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\bin\Debug\ShipScan.exe
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\bin\Debug\ShipScan.pdb
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\obj\Debug\ShipScan.exe
+C:\Users\alnikko.espina\Documents\Visual Studio 2008\Projects\ShipScan\ShipScan\obj\Debug\ShipScan.pdb
